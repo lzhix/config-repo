@@ -6,4 +6,4 @@ spring:
     name: springcloudtest # 应用名称
 
 # 自定义配置
-name: springcloudtest-dev111122222
+name: springcloudtest-dev1111222224444444
